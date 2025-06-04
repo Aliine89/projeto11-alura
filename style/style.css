@@ -90,8 +90,7 @@ body {
     justify-content: center;
     gap: 16px;
     border: 2px solid var(--cor-terciaria);
-    width: fit-content;
-    margin: 0 auto;
+    width: 378px;
     text-align: center;
     border-radius: 8px;
     font-size: 24px;
@@ -137,7 +136,9 @@ body {
     }
 
     .apresentacao__link__links {
-        width: 100%;
+        width: fit-content;
+        margin: 0 auto;
+
     }
 
     img {
